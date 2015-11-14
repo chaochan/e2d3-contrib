@@ -1,7 +1,7 @@
-Simple Bar Chart
+Lifetime Bar Chart
 ====
 
-Simple Bar Chart
+Lifetime Bar Chart
 
 ## Data Format
 
